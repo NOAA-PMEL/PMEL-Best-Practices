@@ -14,3 +14,7 @@ Copy this file into the correct year of the meeting and save it as "YYYY-MM-DD.m
   * ETC...
 ## Closing
   * Next meeting topic: [INSERT TOPIC HERE]
+  * Volunteer for next lightning talk
+  * Action Items:
+    * Note write-up volunteer
+    * Others
