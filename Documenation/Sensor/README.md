@@ -1,1 +1,0 @@
-# Sensor Documentation Best Practices
